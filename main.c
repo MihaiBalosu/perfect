@@ -26,7 +26,7 @@ int perfect(nr){
             sum=sum+i;
     }
 
-    return(sum==nr);
+    return(sum==nr); 
 
 
 }
