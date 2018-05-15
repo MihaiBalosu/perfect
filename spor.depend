@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1508520336 source:c:\c\spor\main.c
+	<stdio.h>
+	<stdlib.h>
+
